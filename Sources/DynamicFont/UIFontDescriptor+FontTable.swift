@@ -11,7 +11,7 @@ import UIKit
 #endif
 
 public extension UIFontDescriptor {
-    public struct PreferredFont {
+    struct PreferredFont {
         static var name: String = "SF UI Text"
     }
 
